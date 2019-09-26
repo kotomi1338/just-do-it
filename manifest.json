@@ -1,0 +1,17 @@
+{
+  "name": "Just Do it!",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Make your dreams come true!",
+  "content_scripts": [{
+    "matches": ["https://twitter.com/*","https://tweetdeck.twitter.com/*"],
+    "js": [
+      "content.js"
+    ]
+  }],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
