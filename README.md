@@ -1,4 +1,6 @@
-# just-do-it
+_Please contact me if you have any requests._
+
+## Just Do it!
 
 Do it!
 Just do it!
