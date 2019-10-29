@@ -1,6 +1,6 @@
 {
   "name": "Just Do it!",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 2,
   "description": "Make your dreams come true!",
   "content_scripts": [{
