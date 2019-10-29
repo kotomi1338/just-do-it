@@ -9,7 +9,9 @@
       "https://tweetdeck.twitter.com/*",
       "https://mobile.twitter.com/*",
       "https://www.youtube.com/*",
-      "https://www.instagram.com/*"
+      "https://www.instagram.com/*",
+      "https://www.amazon.co.jp/*",
+      "https://open.spotify.com/*"
     ],
     "exclude_globs": ["https://www.youtube.com/watch?v=IZmYn4ObRJc"],
     "js": [
